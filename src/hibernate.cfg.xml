@@ -20,10 +20,10 @@
     <property name = "hibernate.connection.password">
     root
     </property>       
-	<mapping class = "mx.itson.espina.nucleo.entidades.Contacto"/> 
-	<mapping class = "mx.itson.espina.nucleo.entidades.Cliente"/> 
-	<mapping class = "mx.itson.espina.nucleo.entidades.Linea"/>
-	<mapping class = "mx.itson.espina.nucleo.entidades.Orden"/>  
+	<mapping class = "mx.itson.llantera.entidades.Contacto"/> 
+	<mapping class = "mx.itson.llantera.entidades.Cliente"/> 
+	<mapping class = "mx.itson.llantera.entidades.Linea"/>
+	<mapping class = "mx.itson.llantera.entidades.Orden"/>  
 
   </session-factory>
 </hibernate-configuration>
